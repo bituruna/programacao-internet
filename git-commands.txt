@@ -1,0 +1,13 @@
+# entrar na pasta onde ficam os trabalhos
+cd ~/Documentos/ProgramacaoInternet  
+
+# iniciar o git
+git init  
+
+# conectar ao repositório remoto do GitHub
+git remote add origin https://github.com/bituruna/programacao-internet.git  
+
+# baixar a branch do GitHub (se já tiver main criada lá)
+git pull origin main  
+
+ibituruna.42web.io/3/
